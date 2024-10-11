@@ -11,7 +11,7 @@ alias tfi='terraform init'
 alias tfp='terraform plan'
 alias tfa='terraform apply'
 alias tfv='terraform validate'
-alias tff='terraform format'
+alias tff='terraform fmt'
 alias tfs='terraform state'
 
 # Generic
