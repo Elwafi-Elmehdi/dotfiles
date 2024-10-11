@@ -15,5 +15,6 @@ alias tff='terraform fmt'
 alias tfs='terraform state'
 
 # Generic
+alias rm='rm -i'
 alias tar=gtar
 alias ibm=ibmcloud
