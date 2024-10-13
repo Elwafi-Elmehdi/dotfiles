@@ -16,5 +16,7 @@ alias tfs='terraform state'
 
 # Generic
 alias rm='rm -i'
+alias df='df -hT'
+alias vim="nvim"
 alias tar=gtar
 alias ibm=ibmcloud
